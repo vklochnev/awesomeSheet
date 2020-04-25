@@ -3,11 +3,11 @@ var vos = (function() {
   var data = {
     awesomeSheet: {
       awesome: true,
-      version: 5.91
+      version: 5.92
     },
     basics: {
       character: {
-        name: "Vos Thunderstomp",
+        name: "Voos Thunderstomp",
         race: "Dwarf",
         alignment: "Chaotic Neutral",
         deity: "",
